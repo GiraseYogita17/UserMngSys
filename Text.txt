@@ -1,5 +1,7 @@
 Class Text{
 public static void main String(){
+
+System.out.println("200 chages");
 System.out.printl("Welcom feature-100 chages");
 System.out.println("Hello, Namskar");
 }
